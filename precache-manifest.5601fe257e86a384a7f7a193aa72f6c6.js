@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceab07e70314f8cff6885c1d469c942e",
+    "revision": "ddc75c1709665600662330f5c0aa1fa9",
     "url": "/react-card-filter/index.html"
   },
   {
-    "revision": "545445d28825ee5a4bd8",
-    "url": "/react-card-filter/static/css/main.eab24d3c.chunk.css"
+    "revision": "5406e306c81b33f70d94",
+    "url": "/react-card-filter/static/css/main.d58476f5.chunk.css"
   },
   {
     "revision": "e7968b493a924d85a3a6",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-card-filter/static/js/2.e8e0365f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "545445d28825ee5a4bd8",
-    "url": "/react-card-filter/static/js/main.8f8ff2de.chunk.js"
+    "revision": "5406e306c81b33f70d94",
+    "url": "/react-card-filter/static/js/main.72d8c00a.chunk.js"
   },
   {
     "revision": "a5971b6384e0ad01e750",
     "url": "/react-card-filter/static/js/runtime-main.7fbd3f8e.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/react-card-filter/static/media/logo.5d5d9eef.svg"
   }
 ]);
