@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+input {
+  margin: 40px 0px 30px 0px;
+}
