@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-card-filter/static/css/main.989e77cb.chunk.css",
+    "main.css": "/react-card-filter/static/css/main.fb49ebaf.chunk.css",
     "main.js": "/react-card-filter/static/js/main.9f8f541a.chunk.js",
     "main.js.map": "/react-card-filter/static/js/main.9f8f541a.chunk.js.map",
     "runtime-main.js": "/react-card-filter/static/js/runtime-main.7fbd3f8e.js",
@@ -8,15 +8,15 @@
     "static/js/2.e8e0365f.chunk.js": "/react-card-filter/static/js/2.e8e0365f.chunk.js",
     "static/js/2.e8e0365f.chunk.js.map": "/react-card-filter/static/js/2.e8e0365f.chunk.js.map",
     "index.html": "/react-card-filter/index.html",
-    "precache-manifest.7f23fb6f694e68b124b09ffd2d2812b1.js": "/react-card-filter/precache-manifest.7f23fb6f694e68b124b09ffd2d2812b1.js",
+    "precache-manifest.3cd41ac3e3a69ae0634e0316bab583dc.js": "/react-card-filter/precache-manifest.3cd41ac3e3a69ae0634e0316bab583dc.js",
     "service-worker.js": "/react-card-filter/service-worker.js",
-    "static/css/main.989e77cb.chunk.css.map": "/react-card-filter/static/css/main.989e77cb.chunk.css.map",
+    "static/css/main.fb49ebaf.chunk.css.map": "/react-card-filter/static/css/main.fb49ebaf.chunk.css.map",
     "static/js/2.e8e0365f.chunk.js.LICENSE.txt": "/react-card-filter/static/js/2.e8e0365f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7fbd3f8e.js",
     "static/js/2.e8e0365f.chunk.js",
-    "static/css/main.989e77cb.chunk.css",
+    "static/css/main.fb49ebaf.chunk.css",
     "static/js/main.9f8f541a.chunk.js"
   ]
 }
